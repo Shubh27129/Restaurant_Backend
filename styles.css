@@ -1,0 +1,39 @@
+.btn {
+    display: block;
+    width: 50%;
+    padding: 16px 20px;
+    margin: 8px 0;
+    border: 0;
+    background: hsl(244, 77%, 49%);
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+    opacity: 0.9;
+  }
+
+
+ ul {
+    font-weight: bold;
+  }
+
+  input[type=text], input[type=number] {
+    width: 50%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border-radius: 5px;
+    background:  #fff; 
+  }
+ 
+
+  .table {
+    width: 50%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border-radius: 5px;
+    background:  #fff; 
+  }
+
+  
+  
